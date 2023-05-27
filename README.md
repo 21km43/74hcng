@@ -15,4 +15,4 @@ But this library has 3 * 4 + 2 pins (74HC04 has 2 * 6 + 2 pins). So you can easi
 * 74HC04 (NOT)
 
 # LICENSE
-MIT License
+[MIT License](/LICENSE)
